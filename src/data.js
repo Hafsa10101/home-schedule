@@ -18,10 +18,11 @@ export const daily = {
       { id: "d-m-1", task: "Fill water bottles / matka", who: "adnan" },
       { id: "d-m-2", task: "Open windows", who: "hafsa" },
       { id: "d-m-3", task: "Make beds", who: "hafsa" },
-      { id: "d-m-4", task: "Tea & breakfast", who: "adnan" },
+      { id: "d-m-4", task: "Make tea", who: "adnan" },
       { id: "d-m-5", task: "Jhadu + pocha + dishes", who: "help" },
       { id: "d-m-6", task: "Take out trash", who: "adnan" },
       { id: "d-m-7", task: "Cut vegetables", who: "adnan" },
+      { id: "d-m-8", task: "Make beakfast", who: "hafsa" },
     ],
   },
   noon: {
