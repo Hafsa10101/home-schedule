@@ -21,6 +21,7 @@ export const daily = {
       { id: "d-m-4", task: "Tea & breakfast", who: "adnan" },
       { id: "d-m-5", task: "Jhadu + pocha + dishes", who: "help" },
       { id: "d-m-6", task: "Take out trash", who: "adnan" },
+      { id: "d-m-7", task: "Cut vegetables", who: "adnan" },
     ],
   },
   noon: {
@@ -30,6 +31,7 @@ export const daily = {
       { id: "d-n-1", task: "Cook lunch + prep dinner", who: "hafsa" },
       { id: "d-n-2", task: "Put dishes + dastarkhan away after eating", who: "adnan" },
       { id: "d-n-3", task: "Quick 15-min tidy — surfaces, sofa & tables", who: "hafsa" },
+      { id: "d-n-4", task: "Keep washed utensils & wipe kitchen counter", who: "hafsa" },
     ],
   },
   evening: {
@@ -58,6 +60,7 @@ export const weekly = [
       { id: "w-tue-1", task: "Scrub toilets, basin & bathroom", who: "adnan" },
       { id: "w-tue-2", task: "Wash & replace towels", who: "hafsa" },
       { id: "w-tue-3", task: "Clean sink area", who: "hafsa" },
+      { id: "w-tue-4", task: "Plan Meals for Thu, Fri, Sat, Sun", who: "hafsa" },
     ],
   },
   {
@@ -79,6 +82,8 @@ export const weekly = [
     day: "Friday", dayIndex: 5, emoji: "✨", focus: "Dusting",
     tasks: [
       { id: "w-fri-1", task: "Dust all surfaces — fans, table, mirrors & shelves", who: "hafsa" },
+      { id: "w-fri-2", task: "Change fresh bedsheets", who: "hafsa" },
+      { id: "w-fri-3", task: "Wash dirty bedsheets", who: "hafsa" },
     ],
   },
   {
@@ -86,6 +91,7 @@ export const weekly = [
     tasks: [
       { id: "w-sat-1", task: "Clean kitchen (deep wipe down)", who: "hafsa" },
       { id: "w-sat-2", task: "Meal prep — chop veggies, grind masala, cook dal", who: "both" },
+      { id: "w-sat-3", task: "Plan Meals for Mon, Tue, Wed", who: "hafsa" },
     ],
   },
   {
